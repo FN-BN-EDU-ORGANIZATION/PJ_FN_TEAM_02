@@ -34,9 +34,9 @@
   }
   
   /* 슬라이드 */
-  .slide-frame {
-    width: 100%;
-    height: 500px;
+  .swiper_section {
+    width: 1024px;
+    height: 700px;
     display: flex;
     position: relative;
     justify-content: center;
@@ -44,6 +44,26 @@
     border: 1px solid black; 
     
   }
+  
+   .main>.swiper_section .swiper>.swiper-wrapper>.swiper-slide {
+            text-align: center;
+            display:flex;
+            justify-content:center;
+            line-height: 700px;
+            border: 1px solid;
+           
+        }
+        
+    .main>.swiper_section .swiper>.swiper-wrapper>.swiper-slide>img {
+            text-align: center;
+            height:500px;
+            line-height:100%;
+            margin-top:100px;
+            width:90%;
+ 		    border:1px solid red;
+     
+            
+        }
 
   
  .table {
