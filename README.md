@@ -1,6 +1,8 @@
 # PJ_FN_TEAM_02
 ## 주제
 쇼핑몰 회원 및 관리자 주문 정보
+## JSP/Servlet git
+https://github.com/jaemin94/TeamProject_Servlet.git
 
 ## 목표
 ##### JAVA 패턴모델을 이용한 프로젝트에서 View를 구현할 수 있다. 
